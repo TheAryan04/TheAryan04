@@ -13,9 +13,9 @@ I specialize in:
 
 🛠️ Tech Stack
 💡 Languages: JavaScript (ES6+), TypeScript
-🖼️ Frontend: React.js, React Native, Next.js
+🖼️ Frontend: React.js, Next.js
 ⚙️ Backend: Node.js, Express.js, WebSockets
-📦 Database: MongoDB, Firebase, PostgreSQL
+📦 Database: MongoDB, MySQL
 🎨 Design & Animations: Three.js, GSAP, Tailwind CSS
 
 💡 Why Hire Me?
