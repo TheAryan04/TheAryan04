@@ -48,7 +48,7 @@ I also work with **Python for data processing, automation, and document extracti
 * PDF Data Extraction
 
 ## Featured Projects
-### 🔹 Instagram Clone (MERN + Realtime)
+### Instagram Clone (MERN + Realtime)
 A social media platform implementing real-time user interaction.
 **Key Features**
 * Authentication & session handling
@@ -56,7 +56,7 @@ A social media platform implementing real-time user interaction.
 * Live chat using Socket.io
 * Dynamic post feeds
 
-### 🔹 E-Commerce Platform with Admin Dashboard
+### E-Commerce Platform with Admin Dashboard
 A complete eCommerce system with product and order management.
 **Key Features**
 * Admin product control panel
@@ -83,6 +83,6 @@ Python, Pandas, OCR (Tesseract), Data Processing
 ## Collaboration
 I am open to internships, collaboration, and open-source contributions related to web development, backend engineering, or automation tools.
 
-## 📫 Connect
+## Connect
 
 GitHub: [https://github.com/TheAryan04]
