@@ -1,32 +1,88 @@
-Hi, I’m Aryan Mehta (@TheAryan04) 
-Full-Stack MERN Developer | Passionate about Scalable Web Applications & UI/UX
+# Aryan Mehta 
+**Full-Stack MERN & Python Developer**
+Building scalable web applications, real-time systems, and automation tools.
 
-About Me
-Hey there! I'm a Full-Stack MERN Developer who loves building immersive and dynamic web applications. With a strong passion for JavaScript, animations, and performance-driven UI/UX, I bring ideas to life with clean, scalable, and efficient code.
+## About Me
 
-What I Specialize In:
-React.js – Building highly interactive, responsive frontends
-Node.js & Express.js – Developing efficient, secure, and scalable backends
-MongoDB & MySQL – Designing optimized database architectures for performance
-WebSockets & Real-Time Features – Implementing live interactions & seamless communication
+I am a Full-Stack Developer focused on building production-ready applications, not just UI demos.
+My work revolves around performance, clean architecture, and real-time user experiences.
 
-Featured Projects:
-Instagram Clone (MERN, Realtime) – A full-featured social media platform with stories, real-time chat, and post-sharing
-E-Commerce Platform with Admin Controls – A complete eCommerce solution with product management, order tracking, and real-time store control
+I enjoy designing systems end-to-end — from database schema and APIs to responsive interfaces and interactive animations.
 
-My Tech Stack:
-Languages: JavaScript (ES6+), TypeScript
-Frontend: React.js, Next.js, Tailwind CSS, ShadCN UI
-Backend: Node.js, Express.js, WebSockets (Socket.io)
-Database: MongoDB, MySQL
+I also work with **Python for data processing, automation, and document extraction systems**, combining backend engineering with practical data handling.
 
+## Core Expertise
+* Designing scalable REST APIs and backend services
+* Real-time communication using WebSockets (Socket.io)
+* Database schema design & optimization
+* Interactive and responsive frontend architecture
+* Automation and data extraction using Python
 
-Why Work With Me?
-Problem-Solver – I break down complex challenges into efficient, scalable solutions
-Creative & Detail-Oriented – I craft sleek UI/UX with seamless interactions & animations
-Fast Learner & Adaptive – Always exploring cutting-edge technologies to stay ahead
-Team Player – Love collaborating with developers, designers, and clients to create impactful products
-<!---
-TheAryan04/TheAryan04 is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack
+
+**Languages**
+* JavaScript (ES6+)
+* TypeScript
+* Python
+
+**Frontend**
+* React.js
+* Next.js
+* Tailwind CSS
+* ShadCN UI
+
+**Backend**
+* Node.js
+* Express.js
+* REST APIs
+* WebSockets (Socket.io)
+
+**Databases**
+* MongoDB
+* MySQL
+
+**Python & Data Tools**
+* Pandas
+* OpenCV
+* Tesseract OCR
+* PDF Data Extraction
+
+## Featured Projects
+### 🔹 Instagram Clone (MERN + Realtime)
+A social media platform implementing real-time user interaction.
+**Key Features**
+* Authentication & session handling
+* Story uploads
+* Live chat using Socket.io
+* Dynamic post feeds
+
+### 🔹 E-Commerce Platform with Admin Dashboard
+A complete eCommerce system with product and order management.
+**Key Features**
+* Admin product control panel
+* Order tracking
+* Payment flow handling
+* Scalable backend architecture
+
+### PDF Data Extraction System (Python)
+Automated extraction of structured data from PDFs and scanned documents.
+**Tech Used**
+Python, Pandas, OCR (Tesseract), Data Processing
+**Capabilities**
+* Table detection
+* OCR processing
+* Excel report generation
+
+## What I Focus On
+* Writing maintainable and modular code
+* Performance optimization
+* Clean API architecture
+* Real-time systems
+* Practical automation tools
+
+## Collaboration
+I am open to internships, collaboration, and open-source contributions related to web development, backend engineering, or automation tools.
+
+## 📫 Connect
+
+GitHub: [https://github.com/TheAryan04]
